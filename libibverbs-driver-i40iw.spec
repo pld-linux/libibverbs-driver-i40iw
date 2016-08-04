@@ -1,12 +1,12 @@
 Summary:	Userspace driver for the Intel Ethernet Connection X722 RDMA adapters
 Summary(pl.UTF-8):	Sterownik przestrzeni użytkownika dla kart RDMA Intel Ethernet Connection X722
 Name:		libibverbs-driver-i40iw
-Version:	0.5.223
+Version:	0.5.227
 Release:	1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	https://www.openfabrics.org/downloads/libi40iw/libi40iw-%{version}.tar.gz
-# Source0-md5:	ba54402259cc96f0e53b0659a9c58280
+# Source0-md5:	4b4de2c42a10811df7c9b975c8890e4a
 URL:		http://openib.org/
 BuildRequires:	libibverbs-devel
 # only checked for, not used
